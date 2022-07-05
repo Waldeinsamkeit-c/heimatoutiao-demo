@@ -146,7 +146,6 @@ export default {
     //     this.isShowCountDown = false;
     //   }
     // },
-    fn() {},
   },
   components: {
     IconFont,
