@@ -14,9 +14,9 @@ import "vant/lib/index.less";
 import "amfe-flexible";
 //
 import request from "@/utils/request";
-request.get("/v1_0/channels").then((res) => {
-  console.log(res);
-});
+// request.get("/v1_0/channels").then((res) => {
+//   console.log(res);
+// });
 Vue.use(Vant);
 //
 new Vue({
